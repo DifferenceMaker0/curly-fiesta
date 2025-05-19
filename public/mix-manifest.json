@@ -1,4 +1,11 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/js/dialog/dialog.js": "/js/dialog/dialog.js",
+    "/js/dialog/dialogEvents.js": "/js/dialog/dialogEvents.js",
+    "/js/dialog/dialogTypes.js": "/js/dialog/dialogTypes.js",
+    "/js/dialog/main.js": "/js/dialog/main.js",
+    "/js/dialog/utils.js": "/js/dialog/utils.js",
+    "/css/dialog/dialog.css": "/css/dialog/dialog.css",
+    "/css/app.css": "/css/app.css",
+    "/css/dialog/styles.css": "/css/dialog/styles.css"
 }
