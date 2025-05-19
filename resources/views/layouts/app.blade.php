@@ -17,7 +17,6 @@
 
 <body class="app sidebar-show aside-menu-show">
 <div class="app-body">
-<button id="promptBtn" class="btn btn-accent">Show Prompt</button>
     <main class="main">
         @yield('content')
     </main>

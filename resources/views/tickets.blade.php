@@ -12,6 +12,8 @@
             <button class="btn btn-primary">
                 Refresh
             </button>
+            <button id="promptBtn" class="btn btn-accent">Show Prompt</button>
+            <button id="confirmBtn" class="btn btn-secondary">Show Confirm</button>
         </div>
     </div>
 @endsection
